@@ -110,9 +110,7 @@ const Editor = () => {
           />
         </div>
       </div>
-      <div className="bg-bgBlue w-full text-center text-white font-light p-5">
-        Made By Avinash Kumar
-      </div>
+      
     </div>
   );
 };

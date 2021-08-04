@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live : https://upbeat-jennings-0a37c2.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
